@@ -1,6 +1,6 @@
 # BlueBoard (32/64bit)
 
-Make your keyboard keys blue on iOS 7/8
+Make your keyboard keys blue on iOS 
 
 Apache License 2.0
 
@@ -14,10 +14,10 @@ My own plan is to make it work from see below
 - [x] iOS 8  
 - [x] iOS 9 
 - [x] iOS 10 
-- [ ] iOS 11
+- [x] iOS 11
 - [ ] iOS 12
 
-my plain is to make a working verson of SpinSettings for ios 11.0 to 12.0
+my plain is to make a working verson of BlueBoard for ios 11.0 to 12.0
 
 why am i putting is on github:
 
