@@ -37,7 +37,7 @@ My own road map
 # Not Supported Devices Yet above iOS 10
 | Device        | Staus   | Device                     | Staus | Device       | Staus   | Device     | Staus   |
 |---------|----------|---------|----------|---------|----------|---------|----------|
-| iPhone 5      | Planned | iPad Mini 1 | Planned              | iPod Touch 5 | Planned |Apple TV4   | Planned |
+| iPhone 5      | Working | iPad Mini 1 | Planned              | iPod Touch 5 | Planned |Apple TV4   | Planned |
 | iPhone 5C     | Working | iPad Mini 2 | Planned              | iPod Touch 6 | Planned |Apple TV 4K | Planned |
 | iPhone 5S     | Planned | iPad Mini 3 | Planned |- | - |- | - |
 | iPhone 6      | Planned | iPad Mini 4 | Planned |- | - |- | - |
@@ -61,7 +61,7 @@ Note: i do have a iPad Air 2 but broken screen but running 10.2
 | Device | Supports |
 |---------|----------|
 | iPhone 4S | iOS 9.3.3/9.3.5 |
-| iPhone 5 | iOS 9.3.3 |
+| iPhone 5 | iOS 10.3.3 |
 | iPhone 5C | iOS 10.3.3 |
 
 # Not Supported 32bit Devices (MAY Work But NOT Tested as i dont have yet)
@@ -131,7 +131,7 @@ Note: i do have a iPad Air 2 but broken screen but running 10.2
 | iOS 10.3   | Untested|Untested|Untested|Untested|
 | iOS 10.3.1 | Untested|Untested|Untested|Untested|
 | iOS 10.3.2 | Untested|Untested|Untested|Untested|
-| iOS 10.3.3 | Untested|working |Untested|Untested|
+| iOS 10.3.3 |working  |working |Untested|Untested|
 
 # Devices 64Bit
 
