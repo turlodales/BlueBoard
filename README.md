@@ -38,13 +38,13 @@ My own road map
 | Device        | Staus   | Device                     | Staus | Device       | Staus   | Device     | Staus   |
 |---------|----------|---------|----------|---------|----------|---------|----------|
 | iPhone 5S     | Working | iPad Mini 1 | Planned              | iPod Touch 5 | Planned |Apple TV4   | Planned |
-| iPhone 6      | Working | iPad Mini 2 | Planned              | iPod Touch 6 | Planned |Apple TV 4K | Planned |
+| iPhone 6      | Planned | iPad Mini 2 | Planned              | iPod Touch 6 | Planned |Apple TV 4K | Planned |
 | iPhone 6+     | Planned | iPad Mini 3 | Planned |- | - |- | - |
 | iPhone SE     | Planned | iPad Mini 4 | Planned |- | - |- | - |
-| iPhone 6S    | Planned | iPad Air    | Planned |- | - |- | - |
-| iPhone 6S+     | Planned | iPad Air 2  | Planned |- | - |- | - |
-| iPhone 7     | Planned |iPad Pro 12.9-inch (1st Gen)| Planned |- | - |- | - |
-| iPhone 7+    | Planned |iPad Pro 9.7-inch  (1st Gen)| Planned |- | - |- | - |
+| iPhone 6S     | Planned | iPad Air    | Planned |- | - |- | - |
+| iPhone 6S+    | Working | iPad Air 2  | Planned |- | - |- | - |
+| iPhone 7      | Planned |iPad Pro 12.9-inch (1st Gen)| Planned |- | - |- | - |
+| iPhone 7+     | Planned |iPad Pro 9.7-inch  (1st Gen)| Planned |- | - |- | - |
 | iPhone 8      | Planned |iPad 2017          (5th Gen)| Planned |- | - |- | - |
 | iPhone 8+     | Planned |iPad Pro 12.9-inch (2nd Gen)| Planned |- | - |- | - |
 | iPhone X      | Planned |iPad Pro 10.5-inch (2nd Gen)| Planned |- | - |- | - |
