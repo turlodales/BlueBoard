@@ -29,12 +29,12 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 
 My own road map
 - [x] Step 1 = Get read me finished 
-- [ ] Step 2 = Start working on the tweak
+- [x] Step 2 = Start working on the tweak
 - [ ] Step 3 = Get it working on My Own Devices
 - [ ] Step 4 = Get New Devices or ask for Beta Testers
 - [ ] Step 5 = Fix bugs 
-- [ ] Step 6 = Try and make 64bit only verson
-- [ ] Step 7 = Relise to the public
+- [ ] Step 6 = Relise to the public
+- [ ] Step 7 = Try and make 64bit only verson
 - [ ] Step 8 = Update when needed 
 
 
@@ -256,7 +256,9 @@ Note: i do have a iPad Air 2 but broken screen but running 10.2
 |iOS 12.0     |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
 |iOS 12.0.1   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
 |iOS 12.1     |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
-|iOS 12.1.1 Beta 1 |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO  |NO|NO  |NO |-|-|NO|NO|
+|iOS 12.1.1   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
+|iOS 12.1.2   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
+|iOS 12.1.3 b4   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
 
 -----------------------------------------------------------------------------------------------------------------------------
 I would like to say a big thank you to the people that have helped me make this happen:
