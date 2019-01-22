@@ -53,7 +53,7 @@ My own road map
 | iPhone 8+     | Planned |iPad Pro 12.9-inch (2nd Gen)| Planned |- | - |- | - |
 | iPhone X      | Planned |iPad Pro 10.5-inch (2nd Gen)| Planned |- | - |- | - |
 | iPhone XS     | Planned |iPad 2018          (6th Gen)| Planned |- | - |- | - |
-| iPhone XS Max      | Planned |iPad Pro 11-inch   (3rd Gen)| Planned |- | - |- | - |
+| iPhone XS Max | Planned |iPad Pro 11-inch   (3rd Gen)| Planned |- | - |- | - |
 | iPhone XR     | Planned |iPad Pro 12.9-inch (3rd Gen)| Planned |- | - |- | - |
 
 
@@ -267,7 +267,7 @@ Notes:
 |iOS 12.1     |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
 |iOS 12.1.1   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
 |iOS 12.1.2   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
-|iOS 12.1.3 b4   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
+|iOS 12.1.3   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
 
 -----------------------------------------------------------------------------------------------------------------------------
 I would like to say a big thank you to the people that have helped me make this happen:
