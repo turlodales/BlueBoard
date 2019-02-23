@@ -150,10 +150,11 @@ Notes:
 # Supported Devices 64Bit
 | Device | Supports |
 |---------|----------|
-| iPhone 5S | iOS 9.3.3 |
+| iPhone 5S   | iOS 9.3.3 |
 | iPhone 6S/+ | iOS 9.3.3 |
-| iPhone 8+| Planned |
-| iPad Air 2 | iOS 9.3.3 |
+| iPhone SE   | iOS 12.1.2 |
+| iPhone 8+.  | Planned |
+| iPad Air 2  | iOS 9.3.3 |
 | iPad Pro (12.9 inch) 1st gen |10.2|
 | iPad Pro 12.9-inch (3rd Gen)| Planned |
 | Apple TV 4|planned|
@@ -266,7 +267,7 @@ Notes:
 |iOS 12.0.1   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
 |iOS 12.1     |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
 |iOS 12.1.1   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
-|iOS 12.1.2   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
+|iOS 12.1.2   |NO |NO|NO |NO|NO |Yes |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
 |iOS 12.1.3   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
 
 -----------------------------------------------------------------------------------------------------------------------------
