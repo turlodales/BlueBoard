@@ -19,7 +19,7 @@ My own plan is to make it work from see below
 - [x] iOS 9 
 - [x] iOS 10 
 - [x] iOS 11
-- [ ] iOS 12
+- [x] iOS 12
 
 my plain is to make a working verson of BlueBoard for ios 11.0 to 12.0
 
@@ -269,6 +269,8 @@ Notes:
 |iOS 12.1.1   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
 |iOS 12.1.2   |NO |NO|NO |NO|NO |Yes |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
 |iOS 12.1.3   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
+|iOS 12.1.4   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
+|iOS 12.2 Beta 2 |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
 
 -----------------------------------------------------------------------------------------------------------------------------
 I would like to say a big thank you to the people that have helped me make this happen:
