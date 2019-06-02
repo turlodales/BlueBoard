@@ -21,7 +21,7 @@ My own plan is to make it work from see below
 - [x] iOS 11
 - [x] iOS 12
 
-my plain is to make a working verson of BlueBoard for ios 11.0 to 12.0
+my plain is to make a working verson of BlueBoard for ios 11.0 to 12.X.X
 
 why am i putting is on github:
 
@@ -42,7 +42,7 @@ My own road map
 | Device        | Staus   | Device                     | Staus | Device       | Staus   | Device     | Staus   |
 |---------|----------|---------|----------|---------|----------|---------|----------|
 | iPhone 5S     | Working | iPad Mini 1 | Planned              | iPod Touch 5 | Planned |Apple TV4   | Planned |
-| iPhone 6      | Planned | iPad Mini 2 | Planned              | iPod Touch 6 | Planned |Apple TV 4K | Planned |
+| iPhone 6      | Working | iPad Mini 2 | Planned              | iPod Touch 6 | Planned |Apple TV 4K | Planned |
 | iPhone 6+     | Planned | iPad Mini 3 | Planned |- | - |- | - |
 | iPhone SE     | Planned | iPad Mini 4 | Planned |- | - |- | - |
 | iPhone 6S     | Planned | iPad Air    | Planned |- | - |- | - |
@@ -148,9 +148,10 @@ Notes:
 # Devices 64Bit
 
 # Supported Devices 64Bit
-| Device | Supports |
+| Device      | Supports |
 |---------|----------|
 | iPhone 5S   | iOS 9.3.3 |
+| iPhone 6    | iOS 12.0 |
 | iPhone 6S/+ | iOS 9.3.3 |
 | iPhone SE   | iOS 12.1.2 |
 | iPhone 8+.  | Planned |
@@ -163,7 +164,7 @@ Notes:
 | Device | Supports |Device | Supports |Device | Supports |
 |---------|----------|---------|----------|---------|----------|
 | iPhone SE | Planned | iPad Air | Planned |iPod Touch 6 | planned |
-| iPhone 6  | planned | iPad Mini 2 | Planned |-|-|
+| iPhone 6  | planned | iPad Mini 2 | Planned |iPod Touch 7|planned|
 | iPhone 6+ | planned | iPad Mini 3 | Planned |-|-|
 | iPhone 6S | planned | iPad Mini 4 | Planned |-|-|
 | iPhone 7  | planned | iPad 2017 | Planned |-|-|
@@ -172,7 +173,8 @@ Notes:
 | iPhone X  | planned | iPad Pro (10.5 inch) 2nd gen| Planned |-|-|
 | iPhone XR | planned | iPad 2018 | Planned |-|-|
 | iPhone XS | planned | iPad Pro 11-inch (3rd Gen| Planned |-|-|
-| iPhone XS Max | planned |-|-|-|-|
+| iPhone XS Max | planned |iPad Mini 5| Planned |-|-|
+| -         | -       |  iPad Air 3 | Planned |-|-|
 
 
 # Supported Devices iOS 7.0 to iOS 7.1.2 
