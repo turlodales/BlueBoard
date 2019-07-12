@@ -64,11 +64,11 @@ Notes:
 | Number | Decsription |
 |---------|----------|
 | 1 | i do have a iPad Air 2 but broken screen but running 10.2 |
-| 2 | iPhone 4 got off ebay on iOS 7.1.2 no shsh2 blobs so cant downgrade below 7.1.2 |
-| 3 | iPhone 5 got off ebay on iOS 10.3.3 no shsh2 blobs so cant downgrade below 10.3.3 |
+| 2 | iPhone 4 got off eBay on iOS 7.1.2 no shsh2 blobs so cant downgrade below 7.1.2 |
+| 3 | iPhone 5 got off eBay on iOS 10.3.3 no shsh2 blobs so cant downgrade below 10.3.3 |
 | 4 | 5C got off ebay on iOS 10.3.3 no shsh2 blobs so cant downgrade |
 | 5 | iPhone 6 got off friend on iOS 12.0 no shsh2 blobs so cant downgrade below 12.0 |
-
+| 6 | iPhone 6S got off eBay on iOS 12.2 no shsh2 blobs so cant downgrade below 12.2 |
 
 # Devices 32Bit
 
@@ -154,7 +154,8 @@ Notes:
 |---------|----------|
 | iPhone 5S   | iOS 9.3.3 |
 | iPhone 6    | iOS 12.0 |
-| iPhone 6S/+ | iOS 9.3.3 |
+| iPhone 6S+ | iOS 9.3.3 |
+| iPhone 6S | Planned |
 | iPhone SE   | iOS 12.1.2 |
 | iPhone 8+.  | Planned |
 | iPad Air 2  | iOS 9.3.3 |
@@ -290,7 +291,6 @@ Notes:
 |iOS|iPad Mini 4|iPad Mini 5|iPad Air 2|iPad Air 3|iPad Pro (12.9 inch) 1st gen|iPad Pro (9.7 inch) 1st gen|iPad 5 2017|iPad Pro (12.9 inch, 2nd gen)|iPad Pro (10.5 inch 2nd gen)|iPad 6 2018|iPad Pro 11-inch (3rd Gen)|iPad Pro 12.9-inch (3rd Gen)|
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
 |iOS 13.0 beta 2 |NO|NO |NO|NO |  NO|NO | NO|NO |  NO|NO | NO|NO |
-
 
 -----------------------------------------------------------------------------------------------------------------------------
 I would like to say a big thank you to the people that have helped me make this happen:
