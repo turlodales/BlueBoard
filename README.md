@@ -24,7 +24,7 @@ My own plan is to make it work from see below
 - [x] iOS 11
 - [x] iOS 12
 
-my plain is to make a working verson of BlueBoard for ios 11.0 to 12.X.X
+my plain is to make a working verson of BlueBoard for ios 11.0 to 13.X.X
 
 why am i putting is on github:
 
@@ -116,7 +116,7 @@ Notes:
 |iOS 8.4   | Untested |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested|
 |iOS 8.4.1 | Untested |Untested  |Untested  |Untested  |Untested  |Untested  |NO JB     |Untested|
 
-# Supported Devices iOS 9.0 to iOS 9.3.5
+# Supported Devices iOS 9.0 to iOS 9.3.6
 |iOS        |4S      |5       |5C       |iPod Touch 5|iPad 2|iPad 3|iPad 4|iPad Mini 1|
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|
 | iOS 9.0   |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
@@ -131,8 +131,9 @@ Notes:
 | iOS 9.3.3 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
 | iOS 9.3.4 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
 | iOS 9.3.5 | working|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
+| iOS 9.3.6 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
 
-# Supported Devices iOS 10.0 to iOS 10.3.3
+# Supported Devices iOS 10.0 to iOS 10.3.4
 |iOS         |       5| 5C     |iPod Touch 5|iPad 4|
 |----------|----------|----------|----------|----------|
 | iOS 10.0   | Untested|Untested|Untested|Untested|
@@ -146,7 +147,8 @@ Notes:
 | iOS 10.3   | Untested|Untested|Untested|Untested|
 | iOS 10.3.1 | Untested|Untested|Untested|Untested|
 | iOS 10.3.2 | Untested|Untested|Untested|Untested|
-| iOS 10.3.3 |working  |working |Untested|Untested|
+| iOS 10.3.3 | working |working |Untested|Untested|
+| iOS 10.3.4 | Untested|Untested|Untested|Untested|
 
 # Devices 64Bit
 
