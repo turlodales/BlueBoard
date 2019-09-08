@@ -43,7 +43,7 @@ My own road map
 
 # Not Supported Devices Yet above iOS 10
 | Device        | Staus   | Device                     | Staus | Device       | Staus   | 
-|---------|----------|---------|----------|---------|----------|---------|----------|
+|---------|----------|---------|----------|---------|----------|
 | iPhone 5S     | Working | iPad Mini 1 | Planned              | iPod Touch 5 | Planned |
 | iPhone 6      | Working | iPad Mini 2 | Planned              | iPod Touch 6 | Planned |
 | iPhone 6+     | Planned | iPad Mini 3 | Planned              | iPod Touch 7 | Planned |
