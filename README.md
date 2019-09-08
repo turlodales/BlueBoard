@@ -8,8 +8,13 @@ Apache License 2.0
 
 Hello and Welcome This is my own attempted to get it reworking but for 32bit Devices and some 64bit devices will work.
 
-for 64bit Devices Plz use the BlueBoard-2 version https://github.com/turlodales/BlueBoard-2
-for iPadOS Devices Plz use the BlueBoard version https://github.com/turlodales/BlueBoard-iPadOS
+
+| Decsription | Link|
+|---------|----------|
+| BlueBoard-2 (64bit)  | https://github.com/turlodales/BlueBoard-2 |
+| BlueBoard-2 (iPadOS) | https://github.com/turlodales/BlueBoard-2-iPadOS |
+| BlueBoard-2 (TVOS)   | https://github.com/turlodales/BlueBoard-2-TVOS |
+
 
 im not sure how different iPadOS will be from iOS untill a iOS/iPadOS JailBreak comes out 
 
