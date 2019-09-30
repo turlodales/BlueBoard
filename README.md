@@ -65,9 +65,11 @@ My own road map
 | iPhone XR     | Planned |iPad Pro 12.9-inch (3rd Gen)| Planned |- | - |- | - |
 | iPhone 11     | Planned |iPad 2019          (7th Gen)| Planned |- | - |- | - |
 | iPhone 11 Pro | Planned | - | - | - | - | - | - |
-| iPhone 11 Pro  Max   | -| - | - | - | - | - |- |
+| iPhone 11 Pro  Max   | Planned| - | - | - | - | - |- |
+
 
 Notes: 
+
 
 | Number | Decsription |
 |---------|----------|
@@ -291,11 +293,13 @@ Notes:
 |iOS 12.4.1   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO  |NO |NO|NO |NO |NO|NO |
 |iOS 12.4.2   |NO |NO|NO |-|- |- |-|- |-|- |-|- |-  |NO  |NO|NO|-  |NO|-  |-|-  |- |-|- |- |-|- |
 
-# Supported Devices iOS 13.0 to iOS 13.1 
+# Supported Devices iOS 13.0 to iOS 13.1.2
 |iOS|6S|6S+|SE|7|7+|8|8+|X|XS|XS Max|XR|11|11 Pro|11 Pro Max|iPod Touch 7|iPad Mini 2|iPad Mini 3|iPad Mini 4|iPad Mini 5|iPad Air|iPad Air 2|iPad Air 3|iPad Pro (12.9 inch) 1st gen|iPad Pro (9.7 inch) 1st gen|iPad 5 2017|iPad Pro (12.9 inch, 2nd gen)|iPad Pro (10.5 inch 2nd gen)|iPad 6 2018|iPad Pro 11-inch (3rd Gen)|iPad Pro 12.9-inch (3rd Gen)|iPad 7 2019|
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|---------- |---------- |---------- |----------|----------|----------|----------|
-|iOS 13.0 |NO|NO |NO |NO|NO |NO|NO |NO|NO|NO| NO  |NO|NO|NO|NO  |NO|NO|NO    |NO |NO|NO |NO |NO|NO |NO|NO|
-|iOS 13.1 |NO|NO |NO |NO|NO |NO|NO |NO|NO|NO| NO  |NO|NO|NO|NO  |NO|NO|NO    |NO |NO|NO |NO |NO|NO |NO|NO|
+|iOS 13.0   |NO|NO |NO |NO|NO |NO|NO |NO|NO|NO| NO  |NO|NO|NO|NO  |NO|NO|NO    |NO |NO|NO |NO |NO|NO |NO|NO|
+|iOS 13.1   |NO|NO |NO |NO|NO |NO|NO |NO|NO|NO| NO  |NO|NO|NO|NO  |NO|NO|NO    |NO |NO|NO |NO |NO|NO |NO|NO|
+|iOS 13.1.1 |NO|NO |NO |NO|NO |NO|NO |NO|NO|NO| NO  |NO|NO|NO|NO  |NO|NO|NO    |NO |NO|NO |NO |NO|NO |NO|NO|
+|iOS 13.1.2 |NO|NO |NO |NO|NO |NO|NO |NO|NO|NO| NO  |NO|NO|NO|NO  |NO|NO|NO    |NO |NO|NO |NO |NO|NO |NO|NO|
 -----------------------------------------------------------------------------------------------------------------------------
 I would like to say a big thank you to the people that have helped me make this happen:
 
