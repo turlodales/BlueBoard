@@ -294,12 +294,13 @@ Notes:
 |iOS 12.4.2   |NO |NO|NO |-|- |- |-|- |-|- |-|- |-  |NO  |NO|NO|-  |NO|-  |-|-  |- |-|- |- |-|- |
 
 # Supported Devices iOS 13.0 to iOS 13.1.2
-|iOS|6S|6S+|SE|7|7+|8|8+|X|XS|XS Max|XR|11|11 Pro|11 Pro Max|iPod Touch 7|iPad Mini 2|iPad Mini 3|iPad Mini 4|iPad Mini 5|iPad Air|iPad Air 2|iPad Air 3|iPad Pro (12.9 inch) 1st gen|iPad Pro (9.7 inch) 1st gen|iPad 5 2017|iPad Pro (12.9 inch, 2nd gen)|iPad Pro (10.5 inch 2nd gen)|iPad 6 2018|iPad Pro 11-inch (3rd Gen)|iPad Pro 12.9-inch (3rd Gen)|iPad 7 2019|
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|---------- |---------- |---------- |----------|----------|----------|----------|
-|iOS 13.0   |NO|NO |NO |NO|NO |NO|NO |NO|NO|NO| NO  |NO|NO|NO|NO  |NO|NO|NO    |NO |NO|NO |NO |NO|NO |NO|NO|
-|iOS 13.1   |NO|NO |NO |NO|NO |NO|NO |NO|NO|NO| NO  |NO|NO|NO|NO  |NO|NO|NO    |NO |NO|NO |NO |NO|NO |NO|NO|
-|iOS 13.1.1 |NO|NO |NO |NO|NO |NO|NO |NO|NO|NO| NO  |NO|NO|NO|NO  |NO|NO|NO    |NO |NO|NO |NO |NO|NO |NO|NO|
-|iOS 13.1.2 |NO|NO |NO |NO|NO |NO|NO |NO|NO|NO| NO  |NO|NO|NO|NO  |NO|NO|NO    |NO |NO|NO |NO |NO|NO |NO|NO|
+|iOS|6S|6S+|SE|7|7+|8|8+|X|XS|XS Max|XR|11|11 Pro|11 Pro Max|iPod Touch 7|
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|iOS 13.0  |NO|NO |SE |NO|NO |NO|NO |X |NO|NO|NO |NO|NO|NO |NO|
+|iOS 13.1  |NO|NO |SE |NO|NO |NO|NO |X |NO|NO|NO |NO|NO|NO |NO|
+|iOS 13.1.1|NO|NO |SE |NO|NO |NO|NO |X |NO|NO|NO |NO|NO|NO |NO|
+|iOS 13.1.2|NO|NO |SE |NO|NO |NO|NO |X |NO|NO|NO |NO|NO|NO |NO|
+
 -----------------------------------------------------------------------------------------------------------------------------
 I would like to say a big thank you to the people that have helped me make this happen:
 
@@ -312,5 +313,5 @@ myself to prove that even someone like me with dyslexia can do something to help
 FreeNAS OS for my Home Server's
 
 Youtube for the vid's that have helped me do this I will list them all soon more to follow when I have spoken to them if I can post they vids
-
-In case anyone is wondering I started using jailbroken devices from the iPhone original 2G,3GS,4S,5S,6S+,8+ I do like the S models. I only have 2 iPads Air 2 and Pro 12.9. I have the Apple TV 3 and 4 sadly both not jailbroken yet and I have the Apple Watch 1st gen. I now have the 5C I got of eBay on 10.3.3 sadly I don't have any of the SHSH2 blobs saved I just want to help put something back into the community.
+-----------------------------------------------------------------------------------------------------------------------------
+In case anyone is wondering I started using jailbroken devices from the iPhone original 2G,3GS,4S,5S,6S+,8+,11 Pro Max. I do like the S models. I only have 2 iPads Air 2 and Pro 12.9. I have the Apple TV 3 and 4 sadly both not jailbroken yet and I have the Apple Watch 1st gen. I now have the 5C I got of eBay on 10.3.3 sadly I don't have any of the SHSH2 blobs saved I just want to help put something back into the community.
