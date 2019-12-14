@@ -170,6 +170,7 @@ Notes:
 | iPhone 6S+ | iOS 9.3.3 |
 | iPhone 6S | Planned |
 | iPhone SE   | iOS 12.1.2 |
+| iPhone 7 | 13.1.2 |
 | iPhone 8+.  | Planned |
 | iPad Air 2  | iOS 9.3.3 |
 | iPad Pro (12.9 inch) 1st gen |10.2|
@@ -183,14 +184,14 @@ Notes:
 | iPhone 6  | planned | iPad Mini 2 | Planned |iPod Touch 7|planned|
 | iPhone 6+ | planned | iPad Mini 3 | Planned |-|-|
 | iPhone 6S | planned | iPad Mini 4 | Planned |-|-|
-| iPhone 7  | planned | iPad 2017 | Planned |-|-|
-| iPhone 7+ | planned | iPad Pro (9.7 inch 1st gen | Planned |-|-|
-| iPhone 8  | planned | iPad Pro (12.9 inch) 2nd gen|Planned|-|-|
-| iPhone X  | planned | iPad Pro (10.5 inch) 2nd gen| Planned |-|-|
-| iPhone XR | planned | iPad 2018 | Planned |-|-|
-| iPhone XS | planned | iPad Pro 11-inch (3rd Gen| Planned |-|-|
-| iPhone XS Max | planned |iPad Mini 5| Planned |-|-|
-| -         | -       |  iPad Air 3 | Planned |-|-|
+| iPhone 7+  | planned | iPad 2017 | Planned |-|-|
+| iPhone 8 | planned | iPad Pro (9.7 inch 1st gen | Planned |-|-|
+| iPhone X  | planned | iPad Pro (12.9 inch) 2nd gen|Planned|-|-|
+| iPhone XR  | planned | iPad Pro (10.5 inch) 2nd gen| Planned |-|-|
+| iPhone XS | planned | iPad 2018 | Planned |-|-|
+| iPhone XS Max | planned | iPad Pro 11-inch (3rd Gen| Planned |-|-|
+| iPhone 11 | planned |iPad Mini 5| Planned |-|-|
+| iPhone 11 Pro | planned |  iPad Air 3 | Planned |-|-|
 
 
 # Supported Devices iOS 7.0 to iOS 7.1.2 
@@ -300,12 +301,12 @@ Notes:
 |iOS 13.0     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|
 |iOS 13.1     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|
 |iOS 13.1.1   |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|
-|iOS 13.1.2   |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|
+|iOS 13.1.2   |NO|NO |NO |Yes|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|
 |iOS 13.1.3   |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|
 |iOS 13.2     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|
 |iOS 13.2.2   |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|
 |iOS 13.2.3   |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|
-|iOS 13.3 (Beta 2)    |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|
+|iOS 13.3     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|
 -----------------------------------------------------------------------------------------------------------------------------
 I would like to say a big thank you to the people that have helped me make this happen:
 
