@@ -307,8 +307,9 @@ Notes:
 |iOS 13.2     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|
 |iOS 13.2.2   |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|
 |iOS 13.2.3   |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|
-|iOS 13.3     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|
-|iOS 13.3.1 Beta 1 |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|
+|iOS 13.3     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|Yes   |NO|
+|iOS 13.3.1   |NO|Yes |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|
+|iOS 13.4 Beta 2 |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|
 -----------------------------------------------------------------------------------------------------------------------------
 I would like to say a big thank you to the people that have helped me make this happen:
 
