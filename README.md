@@ -159,7 +159,7 @@ Notes:
 | iOS 10.3.1 | Untested|Untested|Untested|Untested|
 | iOS 10.3.2 | Untested|Untested|Untested|Untested|
 | iOS 10.3.3 | working |working |Untested|Untested|
-| iOS 10.3.4 | Untested|Untested|Untested|Untested|
+| iOS 10.3.4 | working |Untested|Untested|Untested|
 
 # Devices 64Bit
 
