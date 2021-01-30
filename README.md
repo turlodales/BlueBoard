@@ -182,7 +182,7 @@ Notes:
 | Device | Supports |Device | Supports |Device | Supports |
 |---------|----------|---------|----------|---------|----------|
 | iPhone SE | Planned | iPad Air | Planned |iPod Touch 6 | planned |
-| iPhone 6  | planned | iPad Mini 2 | Planned |iPod Touch 7|planned|
+| iPhone 6  | planned | iPad Mini 2 | Working |iPod Touch 7|planned|
 | iPhone 6+ | planned | iPad Mini 3 | Planned |-|-|
 | iPhone 6S | planned | iPad Mini 4 | Planned |-|-|
 | iPhone 7+  | planned | iPad 2017 | Planned |-|-|
@@ -280,7 +280,7 @@ Notes:
 |iOS 11.4.1   |NO JB|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO  |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |NO             |
 
 
-# Supported Devices iOS 12.0 to iOS 12.4.7
+# Supported Devices iOS 12.0 to iOS 12.5.1
 |iOS|5S|6|6+|6S|6S+|SE|7|7+|8|8+|XS|XS Max|XR|iPod Touch 6|iPad Mini 2|iPad Mini 3|iPad Mini 4|iPad Air|iPad Air 2|iPad Pro (12.9 inch) 1st gen|iPad Pro (9.7 inch) 1st gen|iPad 5 2017|iPad Pro (12.9 inch, 2nd gen)|iPad Pro (10.5 inch 2nd gen)|iPad 6 2018|iPad Pro 11-inch (3rd Gen)|iPad Pro 12.9-inch (3rd Gen)|
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|---------- |---------- |---------- |----------|----------|
 |iOS 12.0     |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO  |NO  |NO|NO   |NO  |- |-  |
@@ -300,6 +300,11 @@ Notes:
 |iOS 12.4.5   |NO |NO|NO |-|-   |-  |-|-   |-|-   |-|-   |-   |NO  |NO|NO|-   |NO|-   |-|-    |-   |-|-     |-   |-|-   |
 |iOS 12.4.6   |NO |NO|NO |-|-   |-  |-|-   |-|-   |-|-   |-   |NO  |NO|NO|-   |NO|-   |-|-    |-   |-|-     |-   |-|-   |
 |iOS 12.4.7   |NO |NO|NO |-|-   |-  |-|-   |-|-   |-|-   |-   |NO  |NO|NO|-   |NO|-   |-|-    |-   |-|-     |-   |-|-   |
+|iOS 12.4.8   |NO |NO|NO |-|-   |-  |-|-   |-|-   |-|-   |-   |NO  |NO|NO|-   |NO|-   |-|-    |-   |-|-     |-   |-|-   |
+|iOS 12.4.9   |NO |NO|NO |-|-   |-  |-|-   |-|-   |-|-   |-   |NO  |NO|NO|-   |NO|-   |-|-    |-   |-|-     |-   |-|-   |
+|iOS 12.5     |NO |NO|NO |-|-   |-  |-|-   |-|-   |-|-   |-   |NO  |NO|NO|-   |NO|-   |-|-    |-   |-|-     |-   |-|-   |
+|iOS 12.5.1   |NO |NO|NO |-|-   |-  |-|-   |-|-   |-|-   |-   |NO  |NO|NO|-   |NO|-x   |-|-    |-   |-|-     |-   |-|-   |
+
 
 # Supported Devices iOS 13.0 to iOS 13.5 
 |iOS|6S|6S+|SE|7|7+|8|8+|XS|XS Max|XR|11|11 Pro|11 Pro Max|SE (2020)|iPod Touch 7|
