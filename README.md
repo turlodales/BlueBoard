@@ -81,6 +81,7 @@ Notes:
 | 6 | iPhone 6S got off eBay on iOS 12.2 no shsh2 blobs so cant downgrade below 12.2 |
 | 7 | iPhone SE got off eBay on iOS 12.1.2 no shsh2 blobs so cant downgrade below 12.1.2 |
 | 8 | iPhone 7 got off eBay on iOS 13.1.2 no shsh2 blobs so cant downgrade below 13.1.2 |
+| 9 | iPad Mini 2nd Gen got off eBay on iOS 12.5.1 no shsh2 blobs so cant downgrade below 12.5.1 |
 
 # Devices 32Bit
 
